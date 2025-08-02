@@ -1,1 +1,3 @@
 # Sentiment-Analysis-of-Internship-Feedback
+
+This project focuses on understanding how people feel about their internship experiences by analyzing their feedback. It starts by collecting a few sample comments and labeling them as either positive or negative. Then, the text is cleaned up by removing extra words, links, and punctuation to make it easier for a computer to understand. This cleaned feedback is saved for each comment, setting the stage for deeper analysis like identifying patterns in how people talk about their experiences. It's a simple and clear approach to getting insights from written opinions.
